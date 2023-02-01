@@ -1,3 +1,9 @@
+# git init
+# git remote add origin https://github.com/DaredevilSlim/SedAndAwk.git
+# git push --set-upstream origin master
+# git add . && git commit -m 'New commit' && git push
+
+
 Параметры командной строки для команды sed:
 Опция	Описание
 -e		Использование нескольких инструкций редактирования следующих одна за другой
